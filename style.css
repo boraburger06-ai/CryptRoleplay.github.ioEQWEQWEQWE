@@ -105,3 +105,10 @@ footer p {
     gap: 10px;
   }
 }
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+
