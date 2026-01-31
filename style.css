@@ -128,6 +128,14 @@ footer p {
     display: none;
     margin-top: 10px;
 }
+.rule-content {
+    display: none;
+}
+
+.rule-card.open .rule-content {
+    display: block;
+}
+
 
 
 
